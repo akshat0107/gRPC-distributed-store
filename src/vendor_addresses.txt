@@ -1,0 +1,11 @@
+Vendor A
+-localhost:50051
+-localhost:50052
+Vendor B
+-localhost:50053
+-localhost:50054
+-localhost:50055
+Vendor C
+-localhost:50056
+-localhost:50057
+-localhost:50058
